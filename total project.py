@@ -4,6 +4,10 @@ import os
 import csv
 
 #필요한 변수들
+'''
+done:파이게임을 위한 변수
+timetable, day:계획표 작성을 위한 변수
+'''
 done = False
 timetable = {}
 day  = ['월','화','수','목','금']
